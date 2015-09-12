@@ -5,12 +5,12 @@
     <artifactId>atherna-wayward-characters-connector</artifactId>
     <name>atherna-wayward-characters-connector</name>
     <description>Spigot plugin to connect Atherna character service to the Wayward suite</description>
-    <version>0.1.0</version>
+    <version>0.1.1-SNAPSHOT</version>
     <scm>
         <connection>scm:git:https://github.com/alyphen/atherna-wayward-characters-connector.git</connection>
         <url>https://github.com/alyphen/atherna-wayward-characters-connector</url>
         <developerConnection>scm:git:https://github.com/alyphen/atherna-wayward-characters-connector.git</developerConnection>
-        <tag>v0.1.0</tag>
+        <tag>HEAD</tag>
     </scm>
     <repositories>
         <repository>
